@@ -16,10 +16,10 @@ Alternatively to step 3 you can type the command `/notepad autoexec.cfg` during 
 
 ### Tools
 
-![](https://github.com/SalatielSauer/Sauer-Skin-Colorizer/master/gui/filler.png) Paint Bucket: Apply the color and texture of the selected part to all parts.<br>
-![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_colorpicker.gif)<br>
+<img src="gui/filler.png" width="32px"/> Paint Bucket: Apply the color and texture of the selected part to all parts.<br>
+![](https://raw.githubusercontent.com/SalatielSauer/misc/main/skincolorizer_colorpicker.gif)<br>
 
-![](https://github.com/SalatielSauer/Sauer-Skin-Colorizer/master/gui/dropper.png) Color Picker: Apply the color and texture of the selected part to the target.
+<img src="gui/dropper.png" width="32px"/> Color Picker: Apply the color and texture of the selected part to the target.
 ![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_paintbucket.gif)<br>
 
 The four circles are base textures in which the colors will be applied, the first three represent the original skins of each team, the last one is a completely white skin.<br>
