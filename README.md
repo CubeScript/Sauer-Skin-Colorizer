@@ -17,7 +17,7 @@ Alternatively to step 3 you can type the command `/notepad autoexec.cfg` during 
 ### Tools
 
 <img src="gui/filler.png" width="32px"/> Paint Bucket: Apply the color and texture of the selected part to all parts.<br>
-![](https://raw.githubusercontent.com/SalatielSauer/misc/main/skincolorizer_colorpicker.gif)<br>
+![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_colorpicker.gif)<br>
 
 <img src="gui/dropper.png" width="32px"/> Color Picker: Apply the color and texture of the selected part to the target.
 ![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_paintbucket.gif)<br>
