@@ -1,5 +1,5 @@
 # Cube 2 Sauerbraten Skin Colorizer
-Skin Colorizer adds a menu to [Sauerbraten](http://sauerbraten.org) that allows the colorization of individual parts of a playermodel.
+Skin Colorizer adds a menu to [Sauerbraten](http://sauerbraten.org) that allows the colorization of individual parts of a playermodel without requiring a modified client or image editors.
 
 ![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_demo2.gif)
 
@@ -19,7 +19,7 @@ Alternatively to step 3 you can type the command `/notepad autoexec.cfg` during 
 <img src="gui/filler.png" width="32px"/> Paint Bucket: Apply the color and texture of the selected part to all parts.<br>
 ![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_colorpicker.gif)<br>
 
-<img src="gui/dropper.png" width="32px"/> Color Picker: Apply the color and texture of the selected part to the target.
+<img src="gui/dropper.png" width="32px"/> Color Picker: Select a source part to copy the color and texture to the target part.<br>
 ![](https://raw.githubusercontent.com/SalatielSauer/misc/master/skincolorizer_paintbucket.gif)<br>
 
 The four circles are base textures in which the colors will be applied, the first three represent the original skins of each team, the last one is a completely white skin.<br>
@@ -29,10 +29,10 @@ The radio buttons in the center determine the team to which the skin will be app
 The colors of the labels represent their state:<br>
 Blue: not selected<br>
 Orange: Selected<br>
-Gray: Source<br>
-Green: Target<br>
+Gray: Target<br>
+Green: Source<br>
 
 ### Reverting changes
 The original files are kept intact in the installation folder, however the client prioritizes files from the home folder, so to recover the original model/skins just remove its folder located at:<br>
-`mygames/packages/models/ <playermodel name>` (Windows)<br>
+`mygames/sauerbraten/packages/models/ <playermodel name>` (Windows)<br>
 `.sauerbraten/packages/models/ <playermodel name>` (Linux)
