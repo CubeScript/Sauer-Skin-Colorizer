@@ -1,3 +1,3 @@
-IronSnout X10K by (C) John 'geartrooper' Siar, licensed under CC-BY 3.0 http://creativecommons.org/licenses/by/3.0/
+"Skin Colorizer Lite" by @SalatielSauer (salatielsauer.github.io)
 
-"Skin Colorizer" and all assets were created or modified by Salatiel (salatielsauer.github.io)
+Original snoutx10k.md5mesh by (C) John 'geartrooper' Siar, licensed under CC-BY 3.0 http://creativecommons.org/licenses/by/3.0/, adapted by @SalatielSauer.
